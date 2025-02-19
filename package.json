@@ -1,0 +1,17 @@
+{
+  "name": "say-hello",
+  "description": "JS sample for DR check",
+  "version": "0.1",
+  "license": "MIT",
+  "main": "./src/index.js",
+  "author": "msee-hammer <145747180+msee-hammer@users.noreply.github.com>",
+  "homepage": "https://github.com/msee-hammer/say-hello#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/msee-hammer/say-hello.git"
+  },
+  "scripts": {
+    "say-hello": "node ./src/index.js"
+  }
+
+}
